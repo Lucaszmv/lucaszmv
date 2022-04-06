@@ -1,4 +1,6 @@
-## Olá, eu me chamo Lucas, apaixonado por conteúdo de programação e tecnologia!
+## 
+<h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, I'm Lucas</h1>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=lucaszmv&color=blueviolet&style=for-the-badge" alt="Profile views" /> </p>
 <div align="center">
   <a href="https://github.com/Lucaszmv">
   <img height="155em" src="https://github-readme-stats.vercel.app/api?username=lucaszmv&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
@@ -11,7 +13,7 @@
   <img align="center" alt="Lucas-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Lucas-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Lucas-Node" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
-  <img align="right" alt="Lucas-pic" height="150" style="border-radius:50px;" src="https://media.discordapp.net/attachments/639956127056134178/890373478988013628/Publicacoes_Instagram_1_1.png?width=676&height=676">
+  <img align="right" alt="Lucas-pic" height="150" style="border-radius:50px;" src="https://octodex.github.com/images/daftpunktocat-guy.gif">
 </div>
   
   ##
