@@ -1,11 +1,23 @@
 ## 
+
 <h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, I'm Lucas</h1>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=lucaszmv&color=blueviolet&style=for-the-badge" alt="Profile views" /> </p>
+
+<img src="https://i.imgur.com/3ucqwoM.png" alt="Hello world">
+
+<p align="center"> 
+  <img src="https://komarev.com/ghpvc/?username=lucaszmv&color=blueviolet&style=for-the-badge" alt="Profile views" />
+</p>
+
+
+## ⚙️ &nbsp;GitHub Analytics
+
 <div align="center">
   <a href="https://github.com/Lucaszmv">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=lucaszmv&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucaszmv&layout=compact&langs_count=7&theme=midnight-purple"/>
 </div>
+  
+  <br>
   
   ## 🛠 &nbsp;Tech Stack
 <div style="display: inline_block"><br>
