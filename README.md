@@ -1,6 +1,6 @@
 ## 
 
-<h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, I'm Lucas</h1>
+<h1 align="left">Hi 👋, I'm Lucas</h1>
 
 <img src="https://i.imgur.com/3ucqwoM.png" alt="Hello world">
 
