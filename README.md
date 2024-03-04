@@ -7,10 +7,10 @@
    </div>  
       
     
-  - ⚡ Olá! Sou Lucas, um desenvolvedor full stack do Brasil, com experiência desde 2019. Trabalho apaixonadamente para unir tecnologia e criatividade na criação de experiências inovadoras.  
+  - ⚡ Hello! I'm Lucas, a full-stack developer from Brazil, with experience since 2019. I work passionately to merge technology and creativity in crafting innovative experiences.  
       
     
-  - 🌱 Com conhecimento tanto em desenvolvimento front-end quanto back-end, crio soluções abrangentes e eficazes para uma variedade de projetos.  
+  - 🌱 With expertise in both front-end and back-end development, I create comprehensive and effective solutions for a variety of projects.  
       
     
    <br/>  
