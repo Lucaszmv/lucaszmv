@@ -16,7 +16,7 @@
    <br/>  
    <hr/>
 
-  ### <div align="center">&nbsp;Teck Stack</div>  
+  ### <div align="center">&nbsp;Tech Stack</div>  
 <div align="center"><br>
     <a href="https://reactjs.org/" target="_blank"><img style="margin: 10px" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" height="25" /></a>  
     <a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" height="25" /></a>  
