@@ -13,8 +13,8 @@
   - 🌱 Com conhecimento tanto em desenvolvimento front-end quanto back-end, crio soluções abrangentes e eficazes para uma variedade de projetos.  
       
     
-  <br/>  
-
+   <br/>  
+   <hr/>
 
   ### <div align="center">&nbsp;Teck Stack</div>  
 <div align="center"><br>
@@ -29,10 +29,10 @@
 </div>
 
   <br>
+  <hr/>
   
 ### <div align="center">&nbsp;GitHub Analytics</div>  
 <div align="center">
-  <a href="https://github.com/Lucaszmv">
 <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Lucaszmv&theme=dark&show_icons=true"/>
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lucaszmv&layout=compact&langs_count=7&theme=dark"/>
 </div>
