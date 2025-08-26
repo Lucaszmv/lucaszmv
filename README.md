@@ -24,6 +24,9 @@
     <a href="https://www.mongodb.com/" target="_blank"><img style="margin: 10px" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" height="25" /></a>  
     <a href="https://nextjs.org/" target="_blank"><img style="margin: 10px" src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js" height="25" /></a>
     <a href="https://tailwindcss.com/" target="_blank"><img style="margin: 10px" src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" height="25" /></a>
+    <a href="https://www.postgresql.org/" target="_blank"><img style="margin: 10px" src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" height="25" /></a>
+    <a href="https://www.prisma.io/" target="_blank"><img style="margin: 10px" src="https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white" alt="Prisma" height="25" /></a>
+    <a href="https://www.postman.com/" target="_blank"><img style="margin: 10px" src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman" height="25" /></a>
     <a href="https://openai.com/" target="_blank"><img style="margin: 10px" src="https://img.shields.io/badge/Artificial_Intelligence-000000?style=for-the-badge&logo=openai&logoColor=white" alt="Artificial Intelligence (AI)" height="25" /></a>
 </div>
 
